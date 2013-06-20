@@ -13,6 +13,22 @@ There are four disticnt module catagories:
 ###Power Generatior
 A basic power generator that consumes a little of some resource to generate power for the station.
 
+* `Width:20`
+* `Height`
+* `Resource One Type`
+* `Resource One Cost'
+* `...`
+* `Resource N Type`
+* `Resource N Cost`
+* `Power Consumption`
+* `Resource Consumption`
+* `current orientation`
+* `Catagory`
+* `Population COst`
+* `Specialist Type`
+* `Structure durability`
+* 
+
 ###Command Center
 This is a required building that exists when the station is created. It cannot be moved or destroyed.
 
